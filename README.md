@@ -1,3 +1,8 @@
+PORT=5000
+MONGODB_URI=mongodb://localhost:27017/bookstore
+JWT_SECRET=your_super_secret_key_here
+
+
 🛠️ Software Installation
 Step 1: Install Node.js
 Why: Node.js is required to run JavaScript on the server and use npm (Node Package Manager)
